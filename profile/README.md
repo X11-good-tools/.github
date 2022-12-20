@@ -7,8 +7,8 @@ This organization includes simple tools for X11.
 
 ### Content:
 
-* [aosd](https://github.com/X11-good-tools/aosd):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/aosd)
+#### menu:
+
 * [jgmenu](https://github.com/X11-good-tools/jgmenu):
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/jgmenu)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/jgmenu)
@@ -18,40 +18,20 @@ This organization includes simple tools for X11.
 * [luastatus](https://github.com/X11-good-tools/luastatus):
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/luastatus)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/luastatus)
-* [qtalarm](https://github.com/X11-good-tools/qtalarm):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/qtalarm)
-![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/qtalarm)
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/qtalarm)
-![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/qtalarm/total)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/qtalarm)
-* [redshift](https://github.com/X11-good-tools/redshift):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/redshift)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/redshift)
-* [sofd](https://github.com/X11-good-tools/sofd):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/sofd)
-* [tinymount](https://github.com/X11-good-tools/tinymount):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/tinymount)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/tinymount)
-* [usbview2](https://github.com/X11-good-tools/usbview2):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/usbview2)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/usbview2)
-* [x11clipboard](https://github.com/X11-good-tools/x11clipboard):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/x11clipboard)
-![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/x11clipboard)
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/x11clipboard)
-![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/x11clipboard/total)
-* [xbanish](https://github.com/X11-good-tools/xbanish):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xbanish)
-* [xcape](https://github.com/X11-good-tools/xcape):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xcape)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/xcape)
-* [xecho](https://github.com/X11-good-tools/xecho):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xecho)
-* [xhhpc](https://github.com/X11-good-tools/xhhpc):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/xhhpc)
-![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/xhhpc)
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xhhpc)
-![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/xhhpc/total)
+* [xmenu](https://github.com/X11-good-tools/xmenu):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xmenu)
+* [xmenud](https://github.com/X11-good-tools/xmenud):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xmenud)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/xmenud)
+* [xstarter](https://github.com/X11-good-tools/xstarter):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xstarter)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/xstarter)
+* [xwinmosaic](https://github.com/X11-good-tools/xwinmosaic):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xwinmosaic)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/xwinmosaic)
+
+#### kbd:
+
 * [xkblang](https://github.com/X11-good-tools/xkblang):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/xkblang)
 ![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/xkblang)
@@ -66,29 +46,63 @@ This organization includes simple tools for X11.
 * [xkb-switch](https://github.com/X11-good-tools/xkb-switch):
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xkb-switch)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/xkb-switch)
-* [xl](https://github.com/X11-good-tools/xl):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xl)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/xl)
-* [xmenu](https://github.com/X11-good-tools/xmenu):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xmenu)
-* [xmenud](https://github.com/X11-good-tools/xmenud):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xmenud)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/xmenud)
+
+#### temperature:
+
+* [redshift](https://github.com/X11-good-tools/redshift):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/redshift)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/redshift)
 * [xsct](https://github.com/X11-good-tools/xsct):
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xsct)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/xsct)
-* [xstarter](https://github.com/X11-good-tools/xstarter):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xstarter)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/xstarter)
 * [xtemp](https://github.com/X11-good-tools/xtemp):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/xtemp)
 ![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/xtemp)
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xtemp)
 ![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/xtemp/total)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/xtemp)
+
+#### hidden:
+
+* [xbanish](https://github.com/X11-good-tools/xbanish):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xbanish)
+* [xhhpc](https://github.com/X11-good-tools/xhhpc):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/xhhpc)
+![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/xhhpc)
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xhhpc)
+![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/xhhpc/total)
+
+#### other:
+
+* [aosd](https://github.com/X11-good-tools/aosd):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/aosd)
+* [qtalarm](https://github.com/X11-good-tools/qtalarm):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/qtalarm)
+![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/qtalarm)
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/qtalarm)
+![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/qtalarm/total)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/qtalarm)
+* [sofd](https://github.com/X11-good-tools/sofd):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/sofd)
+* [tinymount](https://github.com/X11-good-tools/tinymount):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/tinymount)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/tinymount)
+* [usbview2](https://github.com/X11-good-tools/usbview2):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/usbview2)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/usbview2)
+* [x11clipboard](https://github.com/X11-good-tools/x11clipboard):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/X11-good-tools/x11clipboard)
+![GitHub Release Date](https://img.shields.io/github/release-date/X11-good-tools/x11clipboard)
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/x11clipboard)
+![GitHub all releases](https://img.shields.io/github/downloads/X11-good-tools/x11clipboard/total)
+* [xcape](https://github.com/X11-good-tools/xcape):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xcape)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/xcape)
+* [xecho](https://github.com/X11-good-tools/xecho):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xecho)
+* [xl](https://github.com/X11-good-tools/xl):
+![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xl)
+![GitHub](https://img.shields.io/github/license/X11-good-tools/xl)
 * [xwincat](https://github.com/X11-good-tools/xwincat):
 ![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xwincat)
 ![GitHub](https://img.shields.io/github/license/X11-good-tools/xwincat)
-* [xwinmosaic](https://github.com/X11-good-tools/xwinmosaic):
-![GitHub repo size](https://img.shields.io/github/repo-size/X11-good-tools/xwinmosaic)
-![GitHub](https://img.shields.io/github/license/X11-good-tools/xwinmosaic)
